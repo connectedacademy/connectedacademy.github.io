@@ -1,0 +1,5 @@
+courses:
+  testclass:
+    domain: testclass.connectedacademy.io
+    repo: https://github.com/connectedacademy/testclass
+    url: http://testclass.connectedacademy.io
