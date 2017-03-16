@@ -1,2 +1,3 @@
-# connectedacademy.github.io
-Project site
+# Connected Academy Platform
+
+An online, socially driven learning platform.
