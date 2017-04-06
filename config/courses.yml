@@ -3,7 +3,3 @@ courses:
     domain: testclass.connectedacademy.io
     repo: https://github.com/connectedacademy/testclass
     url: https://testclass.connectedacademy.io
-  devclass:
-    domain: devclass.connectedacademy.io
-    repo: https://github.com/connectedacademy/devclass
-    url: https://devclass.connectedacademy.io
