@@ -4,4 +4,4 @@ title: About Connected Academy
 subtitle: a platform for learning
 ---
 
-Connected Academy is under development as a socailly driven, connected platform for online and situated learning.
+Connected Academy is under development as a socially driven, connected platform for online and situated learning.
