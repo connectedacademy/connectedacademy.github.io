@@ -1,9 +1,9 @@
 courses:
-  developer:
-    domain: connectedacademy.io
-    repo: https://github.com/connectedacademy/testclass
-    url: https://testclass.connectedacademy.io
   testclass:
     domain: testclass.connectedacademy.io
+    repo: https://github.com/connectedacademy/testclass
+    url: https://testclass.connectedacademy.io
+  developer:
+    domain: connectedacademy.io
     repo: https://github.com/connectedacademy/testclass
     url: https://testclass.connectedacademy.io
