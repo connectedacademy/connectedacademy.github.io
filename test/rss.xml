@@ -28,5 +28,29 @@
             <pubDate>Wed, 26 Jul 2017 09:48:01 GMT</pubDate>
             <media:thumbnail>http://lorempixel.com/400/200/</media:thumbnail>
         </item>
+        <item>
+            <title>
+                <![CDATA[connectedacademyt1]]>
+            </title>
+            <description>
+                <![CDATA[Without img tag]]>
+            </description>
+            <link>http://example.com/article4?this&amp;that</link>
+            <guid isPermaLink="true">http://example.com/article4?this&amp;that</guid>
+            <pubDate>Wed, 26 Jul 2017 09:48:01 GMT</pubDate>
+            <media:thumbnail>http://lorempixel.com/400/200/</media:thumbnail>
+        </item>
+        
+        <item>
+            <title>
+                <![CDATA[connectedacademyt1]]>
+            </title>
+            <description>
+                <![CDATA[no image tag]]>
+            </description>
+            <link>http://example.com/article4?this&amp;that</link>
+            <guid isPermaLink="true">http://example.com/article4?this&amp;that</guid>
+            <pubDate>Wed, 26 Jul 2017 09:48:01 GMT</pubDate>
+        </item>
     </channel>
 </rss>
