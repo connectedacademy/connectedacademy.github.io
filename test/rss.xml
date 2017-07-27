@@ -2,55 +2,185 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
     <channel>
         <title>
-            <![CDATA[Connected Academy Classroom]]>
+            <![CDATA[Connected Academy - Live Classroom]]>
         </title>
         <description>
             <![CDATA[Live feed of CA classroom]]>
         </description>
-        <link>https://testclass.connectedacademy.io</link>
+        <link>https://testclass.connectedacademy.io/#/course/evidence/liveclass</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Jul 2017 09:48:01 GMT</lastBuildDate>
-        <atom:link href="http://localhost:4000/v1/classroom/rss/HJfwF43xb" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Jul 2017 09:48:01 GMT</pubDate>
+        <lastBuildDate>Thu, 27 Jul 2017 13:58:06 GMT</lastBuildDate>
+        <atom:link href="https://api.connectedacademy.io/v1/classroom/rss/HJfwF43xb" rel="self" type="application/rss+xml"/>
+        <pubDate>Thu, 27 Jul 2017 13:58:06 GMT</pubDate>
         <language>
             <![CDATA[en]]>
         </language>
-        <ttl>10</ttl>
+        <ttl>1</ttl>
         <item>
             <title>
-                <![CDATA[connectedacademyt1]]>
+                <![CDATA[Image 0]]>
             </title>
             <description>
-                <![CDATA[<img src="http://lorempixel.com/400/200/"/> this is some text]]>
+                <![CDATA[<img src="https://testclass.connectedacademy.io/course/content/en/class1/transcripts/Wajih-Zahalan.jpg" />]]>
             </description>
-            <link>http://example.com/article4?this&amp;that</link>
-            <guid isPermaLink="true">http://example.com/article4?this&amp;that</guid>
-            <pubDate>Wed, 26 Jul 2017 09:48:01 GMT</pubDate>
-            <media:thumbnail>http://lorempixel.com/400/200/</media:thumbnail>
+            <link/>
+            <guid isPermaLink="true">
+                <id>1</id>
+            </guid>
+            <dc:creator>
+                <![CDATA[Connected Academy]]>
+            </dc:creator>
+            <pubDate>Thu, 27 Jul 2017 13:58:06 GMT</pubDate>
         </item>
         <item>
             <title>
-                <![CDATA[connectedacademyt1]]>
+                <![CDATA[Image 1]]>
             </title>
             <description>
-                <![CDATA[Without img tag]]>
+                <![CDATA[<img src="https://testclass.connectedacademy.io/course/content/en/class1/transcripts/khamissy17.jpg" />]]>
             </description>
-            <link>http://example.com/article4?this&amp;that</link>
-            <guid isPermaLink="true">http://example.com/article4?this&amp;that</guid>
-            <pubDate>Wed, 26 Jul 2017 09:48:01 GMT</pubDate>
-            <media:thumbnail>http://lorempixel.com/400/200/</media:thumbnail>
+            <link/>
+            <guid isPermaLink="true">
+                <id>2</id>
+            </guid>
+            <dc:creator>
+                <![CDATA[Connected Academy]]>
+            </dc:creator>
+            <pubDate>Thu, 27 Jul 2017 13:58:06 GMT</pubDate>
         </item>
-        
         <item>
             <title>
-                <![CDATA[connectedacademyt1]]>
+                <![CDATA[Image 2]]>
             </title>
             <description>
-                <![CDATA[no image tag]]>
+                <![CDATA[<img src="https://testclass.connectedacademy.io/course/content/en/class1/transcripts/Kamal-Gedea.jpg" />]]>
             </description>
-            <link>http://example.com/article4?this&amp;that</link>
-            <guid isPermaLink="true">http://example.com/article4?this&amp;that</guid>
-            <pubDate>Wed, 26 Jul 2017 10:48:01 GMT</pubDate>
+            <link/>
+            <guid isPermaLink="true">
+                <id>3</id>
+            </guid>
+            <dc:creator>
+                <![CDATA[Connected Academy]]>
+            </dc:creator>
+            <pubDate>Thu, 27 Jul 2017 13:58:06 GMT</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Image 3]]>
+            </title>
+            <description>
+                <![CDATA[<img src="https://testclass.connectedacademy.io/course/content/en/class1/transcripts/Wajih-Zahalan.jpg" />]]>
+            </description>
+            <link/>
+            <guid isPermaLink="true">
+                <id>4</id>
+            </guid>
+            <dc:creator>
+                <![CDATA[Connected Academy]]>
+            </dc:creator>
+            <pubDate>Thu, 27 Jul 2017 13:58:06 GMT</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Image 4]]>
+            </title>
+            <description>
+                <![CDATA[<img src="https://testclass.connectedacademy.io/course/content/en/class1/transcripts/khamissy17.jpg" />]]>
+            </description>
+            <link/>
+            <guid isPermaLink="true">
+                <id>5</id>
+            </guid>
+            <dc:creator>
+                <![CDATA[Connected Academy]]>
+            </dc:creator>
+            <pubDate>Thu, 27 Jul 2017 13:58:06 GMT</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Image 5]]>
+            </title>
+            <description>
+                <![CDATA[<img src="https://testclass.connectedacademy.io/course/content/en/class1/transcripts/Kamal-Gedea.jpg" />]]>
+            </description>
+            <link/>
+            <guid isPermaLink="true">
+                <id>6</id>
+            </guid>
+            <dc:creator>
+                <![CDATA[Connected Academy]]>
+            </dc:creator>
+            <pubDate>Thu, 27 Jul 2017 13:58:06 GMT</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Test notes made during a class]]>
+            </title>
+            <description>
+                <![CDATA[Test notes made during a class]]>
+            </description>
+            <link>https://testclass.connectedacademy.io/#/course/evidence/liveclass/2</link>
+            <guid isPermaLink="true">https://testclass.connectedacademy.io/#/course/evidence/liveclass/2</guid>
+            <dc:creator>
+                <![CDATA[@Unknown]]>
+            </dc:creator>
+            <pubDate>Wed, 24 May 2017 12:51:57 GMT</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[First Level]]>
+            </title>
+            <description>
+                <![CDATA[First Level]]>
+            </description>
+            <link>https://testclass.connectedacademy.io/#/course/evidence/liveclass/1</link>
+            <guid isPermaLink="true">https://testclass.connectedacademy.io/#/course/evidence/liveclass/1</guid>
+            <dc:creator>
+                <![CDATA[@Unknown]]>
+            </dc:creator>
+            <pubDate>Wed, 24 May 2017 12:56:44 GMT</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Second Level 1]]>
+            </title>
+            <description>
+                <![CDATA[Second Level 1]]>
+            </description>
+            <link>https://testclass.connectedacademy.io/#/course/evidence/liveclass/1</link>
+            <guid isPermaLink="true">https://testclass.connectedacademy.io/#/course/evidence/liveclass/1</guid>
+            <dc:creator>
+                <![CDATA[@connectedacademyt1]]>
+            </dc:creator>
+            <pubDate>Wed, 24 May 2017 14:00:56 GMT</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Third level reply]]>
+            </title>
+            <description>
+                <![CDATA[Third level reply]]>
+            </description>
+            <link>https://testclass.connectedacademy.io/#/course/evidence/liveclass/undefined</link>
+            <guid isPermaLink="true">https://testclass.connectedacademy.io/#/course/evidence/liveclass/undefined</guid>
+            <dc:creator>
+                <![CDATA[@Unknown]]>
+            </dc:creator>
+            <pubDate>Thu, 25 May 2017 11:43:13 GMT</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[First level secondary]]>
+            </title>
+            <description>
+                <![CDATA[First level secondary]]>
+            </description>
+            <link>https://testclass.connectedacademy.io/#/course/evidence/liveclass/1</link>
+            <guid isPermaLink="true">https://testclass.connectedacademy.io/#/course/evidence/liveclass/1</guid>
+            <dc:creator>
+                <![CDATA[@Unknown]]>
+            </dc:creator>
+            <pubDate>Thu, 25 May 2017 11:23:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
