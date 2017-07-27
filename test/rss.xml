@@ -9,9 +9,9 @@
         </description>
         <link>https://testclass.connectedacademy.io/#/course/evidence/liveclass</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 27 Jul 2017 14:01:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2017 14:30:47 GMT</lastBuildDate>
         <atom:link href="https://api.connectedacademy.io/v1/classroom/rss/HJfwF43xb" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 27 Jul 2017 14:01:09 GMT</pubDate>
+        <pubDate>Thu, 27 Jul 2017 14:30:47 GMT</pubDate>
         <language>
             <![CDATA[en]]>
         </language>
@@ -28,7 +28,7 @@
             <dc:creator>
                 <![CDATA[Connected Academy]]>
             </dc:creator>
-            <pubDate>Thu, 27 Jul 2017 14:01:09 GMT</pubDate>
+            <pubDate>Thu, 27 Jul 2017 14:30:47 GMT</pubDate>
         </item>
         <item>
             <title>
@@ -42,7 +42,7 @@
             <dc:creator>
                 <![CDATA[Connected Academy]]>
             </dc:creator>
-            <pubDate>Thu, 27 Jul 2017 14:01:09 GMT</pubDate>
+            <pubDate>Thu, 27 Jul 2017 14:30:47 GMT</pubDate>
         </item>
         <item>
             <title>
@@ -56,7 +56,7 @@
             <dc:creator>
                 <![CDATA[Connected Academy]]>
             </dc:creator>
-            <pubDate>Thu, 27 Jul 2017 14:01:09 GMT</pubDate>
+            <pubDate>Thu, 27 Jul 2017 14:30:47 GMT</pubDate>
         </item>
         <item>
             <title>
@@ -70,7 +70,7 @@
             <dc:creator>
                 <![CDATA[Connected Academy]]>
             </dc:creator>
-            <pubDate>Thu, 27 Jul 2017 14:01:09 GMT</pubDate>
+            <pubDate>Thu, 27 Jul 2017 14:30:47 GMT</pubDate>
         </item>
         <item>
             <title>
@@ -84,7 +84,7 @@
             <dc:creator>
                 <![CDATA[Connected Academy]]>
             </dc:creator>
-            <pubDate>Thu, 27 Jul 2017 14:01:09 GMT</pubDate>
+            <pubDate>Thu, 27 Jul 2017 14:30:47 GMT</pubDate>
         </item>
         <item>
             <title>
@@ -98,14 +98,14 @@
             <dc:creator>
                 <![CDATA[Connected Academy]]>
             </dc:creator>
-            <pubDate>Thu, 27 Jul 2017 14:01:09 GMT</pubDate>
+            <pubDate>Thu, 27 Jul 2017 14:30:47 GMT</pubDate>
         </item>
         <item>
             <title>
                 <![CDATA[Test notes made during a class]]>
             </title>
             <description>
-                <![CDATA[Test notes made during a class]]>
+                <![CDATA[by @Unknown on Wed May 24 12:51:57 GMT 2017]]>
             </description>
             <link>https://testclass.connectedacademy.io/#/course/evidence/liveclass/2</link>
             <guid isPermaLink="true">https://testclass.connectedacademy.io/#/course/evidence/liveclass/2</guid>
@@ -119,7 +119,7 @@
                 <![CDATA[First Level]]>
             </title>
             <description>
-                <![CDATA[First Level]]>
+                <![CDATA[by @Unknown on Wed May 24 2017 12:56:44 GMT+0000 (UTC)]]>
             </description>
             <link>https://testclass.connectedacademy.io/#/course/evidence/liveclass/1</link>
             <guid isPermaLink="true">https://testclass.connectedacademy.io/#/course/evidence/liveclass/1</guid>
@@ -133,7 +133,7 @@
                 <![CDATA[Second Level 1]]>
             </title>
             <description>
-                <![CDATA[Second Level 1]]>
+                <![CDATA[by @connectedacademyt1 on Wed May 24 2017 14:00:56 GMT+0000 (UTC)]]>
             </description>
             <link>https://testclass.connectedacademy.io/#/course/evidence/liveclass/1</link>
             <guid isPermaLink="true">https://testclass.connectedacademy.io/#/course/evidence/liveclass/1</guid>
@@ -147,7 +147,7 @@
                 <![CDATA[Third level reply]]>
             </title>
             <description>
-                <![CDATA[Third level reply]]>
+                <![CDATA[by @Unknown on Thu May 25 2017 11:43:13 GMT+0000 (UTC)]]>
             </description>
             <link>https://testclass.connectedacademy.io/#/course/evidence/liveclass/undefined</link>
             <guid isPermaLink="true">https://testclass.connectedacademy.io/#/course/evidence/liveclass/undefined</guid>
@@ -161,7 +161,7 @@
                 <![CDATA[First level secondary]]>
             </title>
             <description>
-                <![CDATA[First level secondary]]>
+                <![CDATA[by @Unknown on Thu May 25 2017 11:23:06 GMT+0000 (UTC)]]>
             </description>
             <link>https://testclass.connectedacademy.io/#/course/evidence/liveclass/1</link>
             <guid isPermaLink="true">https://testclass.connectedacademy.io/#/course/evidence/liveclass/1</guid>
