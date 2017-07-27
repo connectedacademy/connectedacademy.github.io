@@ -9,9 +9,9 @@
         </description>
         <link>https://testclass.connectedacademy.io/#/course/evidence/liveclass</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 27 Jul 2017 13:58:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2017 14:01:09 GMT</lastBuildDate>
         <atom:link href="https://api.connectedacademy.io/v1/classroom/rss/HJfwF43xb" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 27 Jul 2017 13:58:06 GMT</pubDate>
+        <pubDate>Thu, 27 Jul 2017 14:01:09 GMT</pubDate>
         <language>
             <![CDATA[en]]>
         </language>
@@ -23,14 +23,12 @@
             <description>
                 <![CDATA[<img src="https://testclass.connectedacademy.io/course/content/en/class1/transcripts/Wajih-Zahalan.jpg" />]]>
             </description>
-            <link/>
-            <guid isPermaLink="true">
-                <id>1</id>
-            </guid>
+            <link>https://testclass.connectedacademy.io/course/content/en/class1/transcripts/Wajih-Zahalan.jpg</link>
+            <guid isPermaLink="true">https://testclass.connectedacademy.io/course/content/en/class1/transcripts/Wajih-Zahalan.jpg</guid>
             <dc:creator>
                 <![CDATA[Connected Academy]]>
             </dc:creator>
-            <pubDate>Thu, 27 Jul 2017 13:58:06 GMT</pubDate>
+            <pubDate>Thu, 27 Jul 2017 14:01:09 GMT</pubDate>
         </item>
         <item>
             <title>
@@ -39,14 +37,12 @@
             <description>
                 <![CDATA[<img src="https://testclass.connectedacademy.io/course/content/en/class1/transcripts/khamissy17.jpg" />]]>
             </description>
-            <link/>
-            <guid isPermaLink="true">
-                <id>2</id>
-            </guid>
+            <link>https://testclass.connectedacademy.io/course/content/en/class1/transcripts/khamissy17.jpg</link>
+            <guid isPermaLink="true">https://testclass.connectedacademy.io/course/content/en/class1/transcripts/khamissy17.jpg</guid>
             <dc:creator>
                 <![CDATA[Connected Academy]]>
             </dc:creator>
-            <pubDate>Thu, 27 Jul 2017 13:58:06 GMT</pubDate>
+            <pubDate>Thu, 27 Jul 2017 14:01:09 GMT</pubDate>
         </item>
         <item>
             <title>
@@ -55,14 +51,12 @@
             <description>
                 <![CDATA[<img src="https://testclass.connectedacademy.io/course/content/en/class1/transcripts/Kamal-Gedea.jpg" />]]>
             </description>
-            <link/>
-            <guid isPermaLink="true">
-                <id>3</id>
-            </guid>
+            <link>https://testclass.connectedacademy.io/course/content/en/class1/transcripts/Kamal-Gedea.jpg</link>
+            <guid isPermaLink="true">https://testclass.connectedacademy.io/course/content/en/class1/transcripts/Kamal-Gedea.jpg</guid>
             <dc:creator>
                 <![CDATA[Connected Academy]]>
             </dc:creator>
-            <pubDate>Thu, 27 Jul 2017 13:58:06 GMT</pubDate>
+            <pubDate>Thu, 27 Jul 2017 14:01:09 GMT</pubDate>
         </item>
         <item>
             <title>
@@ -71,14 +65,12 @@
             <description>
                 <![CDATA[<img src="https://testclass.connectedacademy.io/course/content/en/class1/transcripts/Wajih-Zahalan.jpg" />]]>
             </description>
-            <link/>
-            <guid isPermaLink="true">
-                <id>4</id>
-            </guid>
+            <link>https://testclass.connectedacademy.io/course/content/en/class1/transcripts/Wajih-Zahalan.jpg</link>
+            <guid isPermaLink="true">https://testclass.connectedacademy.io/course/content/en/class1/transcripts/Wajih-Zahalan.jpg</guid>
             <dc:creator>
                 <![CDATA[Connected Academy]]>
             </dc:creator>
-            <pubDate>Thu, 27 Jul 2017 13:58:06 GMT</pubDate>
+            <pubDate>Thu, 27 Jul 2017 14:01:09 GMT</pubDate>
         </item>
         <item>
             <title>
@@ -87,14 +79,12 @@
             <description>
                 <![CDATA[<img src="https://testclass.connectedacademy.io/course/content/en/class1/transcripts/khamissy17.jpg" />]]>
             </description>
-            <link/>
-            <guid isPermaLink="true">
-                <id>5</id>
-            </guid>
+            <link>https://testclass.connectedacademy.io/course/content/en/class1/transcripts/khamissy17.jpg</link>
+            <guid isPermaLink="true">https://testclass.connectedacademy.io/course/content/en/class1/transcripts/khamissy17.jpg</guid>
             <dc:creator>
                 <![CDATA[Connected Academy]]>
             </dc:creator>
-            <pubDate>Thu, 27 Jul 2017 13:58:06 GMT</pubDate>
+            <pubDate>Thu, 27 Jul 2017 14:01:09 GMT</pubDate>
         </item>
         <item>
             <title>
@@ -103,14 +93,12 @@
             <description>
                 <![CDATA[<img src="https://testclass.connectedacademy.io/course/content/en/class1/transcripts/Kamal-Gedea.jpg" />]]>
             </description>
-            <link/>
-            <guid isPermaLink="true">
-                <id>6</id>
-            </guid>
+            <link>https://testclass.connectedacademy.io/course/content/en/class1/transcripts/Kamal-Gedea.jpg</link>
+            <guid isPermaLink="true">https://testclass.connectedacademy.io/course/content/en/class1/transcripts/Kamal-Gedea.jpg</guid>
             <dc:creator>
                 <![CDATA[Connected Academy]]>
             </dc:creator>
-            <pubDate>Thu, 27 Jul 2017 13:58:06 GMT</pubDate>
+            <pubDate>Thu, 27 Jul 2017 14:01:09 GMT</pubDate>
         </item>
         <item>
             <title>
