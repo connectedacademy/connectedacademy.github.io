@@ -1,13 +1,14 @@
 courses:
-  testclass:
-    domain: testclass.connectedacademy.io
-    repo: https://github.com/connectedacademy/testclass
-    url: https://testclass.connectedacademy.io
     
   interpretation:
     domain: interpretation.connectedacademy.io
     repo: https://github.com/connectedacademy/interpretation
     url: https://interpretation.connectedacademy.io
+
+  testclass:
+    domain: testclass.connectedacademy.io
+    repo: https://github.com/connectedacademy/testclass
+    url: https://testclass.connectedacademy.io
 
   developer:
     domain: connectedacademy.io
