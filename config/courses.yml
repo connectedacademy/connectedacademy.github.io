@@ -4,9 +4,9 @@ courses:
     repo: https://github.com/connectedacademy/interpretation
     url: https://interpretation.connectedacademy.io
   testclass:
-    domain: testclass.connectedacademy.io
-    repo: https://github.com/connectedacademy/testclass
-    url: https://testclass.connectedacademy.io
+    domain: talkingpictures.connectedacademy.io
+    repo: https://github.com/connectedacademy/talkingpictures
+    url: https://talkingpictures.connectedacademy.io
   developer:
     domain: connectedacademy.io
     repo: https://github.com/connectedacademy/testclass
