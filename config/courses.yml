@@ -3,6 +3,10 @@ courses:
     domain: interpretation.connectedacademy.io
     repo: https://github.com/connectedacademy/interpretation
     url: https://interpretation.connectedacademy.io
+  researchmethods:
+    domain: researchmethods.connectedacademy.io
+    repo: https://github.com/connectedacademy/researchmethods
+    url: https://researchmethods.connectedacademy.io
   testclass:
     domain: talkingpictures.connectedacademy.io
     repo: https://github.com/connectedacademy/talkingpictures
