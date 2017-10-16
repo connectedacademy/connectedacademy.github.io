@@ -11,7 +11,3 @@ courses:
     domain: talkingpictures.connectedacademy.io
     repo: https://github.com/connectedacademy/talkingpictures
     url: https://talkingpictures.connectedacademy.io
-  developer:
-    domain: connectedacademy.io
-    repo: https://github.com/connectedacademy/testclass
-    url: https://testclass.connectedacademy.io
