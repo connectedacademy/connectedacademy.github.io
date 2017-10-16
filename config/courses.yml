@@ -7,7 +7,7 @@ courses:
     domain: researchmethods.connectedacademy.io
     repo: https://github.com/connectedacademy/researchmethods
     url: https://researchmethods.connectedacademy.io
-  testclass:
+  talkingpictures:
     domain: talkingpictures.connectedacademy.io
     repo: https://github.com/connectedacademy/talkingpictures
     url: https://talkingpictures.connectedacademy.io
