@@ -1,9 +1,29 @@
-# project
-_site
-.sass-cache
-.vagrant
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+*.sass-cache
 
-# general
+# OS or Editor folders
 .DS_Store
+.cache
+.project
+.settings
+.tmproj
+nbproject
 Thumbs.db
-ehthumbs.db
+
+# NPM packages folder.
+node_modules/
+
+# Brunch folder for temporary files.
+tmp/
+
+# Brunch output folder.
+public/
