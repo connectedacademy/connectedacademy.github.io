@@ -1,12 +1,12 @@
 courses:
-  interpretation:
-    domain: interpretation.connectedacademy.io
-    repo: https://github.com/connectedacademy/interpretation
-    url: https://interpretation.connectedacademy.io
   talkingpictures:
     domain: talkingpictures.connectedacademy.io
     repo: https://github.com/connectedacademy/talkingpictures
     url: https://talkingpictures.connectedacademy.io
+  interpretation:
+    domain: interpretation.connectedacademy.io
+    repo: https://github.com/connectedacademy/interpretation
+    url: https://interpretation.connectedacademy.io
   researchmethods:
     domain: researchmethods.connectedacademy.io
     repo: https://github.com/connectedacademy/researchmethods
