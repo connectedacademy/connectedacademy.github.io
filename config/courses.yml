@@ -1,4 +1,8 @@
 courses:
+  rocket:
+    domain: rocket.connectedacademy.io
+    repo: https://github.com/connectedacademy/rocket
+    url: https://rocket.connectedacademy.io
   talkingpictures:
     domain: talkingpictures.connectedacademy.io
     repo: https://github.com/connectedacademy/talkingpictures
