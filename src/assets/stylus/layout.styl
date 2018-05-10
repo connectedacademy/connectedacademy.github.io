@@ -1,0 +1,47 @@
+.clearfix
+  clear both
+  float none
+
+.container
+  margin 0 auto
+  max-width $page-width
+  padding 0
+
+.row
+  gradient()
+  border-box()
+  padding 80px 20px
+  text-align center
+  h3, h5
+    color white
+  h5
+    font-size 0.8em
+    a
+      color white
+      text-decoration none
+      &:not(:first-child):before
+        content ' | '
+  &.pink
+    background-color $color-pink
+  &.dark
+    background-color $color-darkest-grey
+  &.terms
+    background-color $color-darkest-grey
+    border-top alpha(white, 0.1) 1px solid
+    padding 5px 20px
+  &.image
+    background-image($color-darkest-grey)
+    position relative
+    &:before
+      pinned()
+      background-color alpha(black, 0.4)
+      content ''
+      position absolute
+    h1
+      color white
+      padding 120px 20px
+      position relative
+      z-index 1
+      @media(max-width: 458px)
+        font-size 1.6em
+        padding 60px 20px
