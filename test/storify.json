@@ -1,0 +1,17 @@
+{
+  "results":[
+  {
+  "type": "quote",
+  "permalink": "https://www.w3schools.com/xml/xml_rss.asp",
+  "posted_at": "2017-07-26T09:37:50.693Z",
+  "attribution": {
+    "name" : "Tom B",
+    "href" : "https://www.w3schools.com/xml/xml_rss.asp"
+  },
+  "data":{
+    "quote":"This is a test quote"
+  }
+  }
+  
+]
+}
